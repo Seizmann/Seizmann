@@ -1,121 +1,143 @@
 Mohammad Sijan
 
-<h3 align="center">
 Engineer, Founder & Lead Architect of SpritEX AI
-</h3><p align="center">
-Building AI-native products, intelligent agents, developer tools, and scalable software systems.
-</p><p align="center">
-  <a href="https://sijan.pro.bd">Portfolio</a> •
-  <a href="https://rexio.pro">RexiO</a> •
-  <a href="https://spritexai.pro.bd">SpritEX AI</a>
-</p>
+
+Building AI-native products, intelligent agents, and software systems that help people do more with less effort.
+
 ---
 
 About Me
 
-I'm Mohammad Sijan, a Bangladeshi AI Engineer, Software Architect, and Startup Founder.
+I'm Mohammad Sijan, a Bangladeshi AI Engineer, Product Architect, and Startup Founder.
 
-I build AI-powered products, autonomous agent systems, modern web applications, and developer-focused platforms.
+I focus on designing and building AI-powered products, agent systems, developer tools, and scalable digital platforms.
 
-Currently focused on:
+My work primarily revolves around:
 
 - Artificial Intelligence
-- LLM Applications
-- Agentic Systems
+- LLM Engineering
+- Agent Systems
 - Product Architecture
-- Full-Stack Development
 - AI Infrastructure
-- SaaS Platforms
+- Full-Stack Development
 
 ---
 
-Current Projects
+What I'm Building
 
 RexiO
 
-AI-native platform focused on intelligent experiences, productivity, and next-generation digital interaction.
+RexiO is an AI-native platform designed to make intelligent digital experiences accessible to everyone.
 
-Website: https://rexio.pro
+My vision for RexiO is to create a platform where AI is not just a feature, but a core part of the user experience.
+
+🌐 https://rexio.pro
+
+---
 
 RexiO Agent
 
-Open-source autonomous AI agent framework built for reasoning, execution, memory, and tool usage.
+RexiO Agent is an open-source AI agent framework focused on reasoning, memory, tool usage, and autonomous task execution.
 
-Repository: https://github.com/SpritexAI/rexio-agent
+It serves as the foundation for building advanced AI assistants and autonomous workflows.
+
+🔗 https://github.com/SpritexAI/rexio-agent
+
+---
 
 SpritEX AI
 
-AI company focused on building intelligent software, AI products, automation systems, and developer tools.
+SpritEX AI is the company behind my AI products, infrastructure, and research initiatives.
 
-Website: https://spritexai.pro.bd
+Our mission is to build practical AI systems that solve real-world problems.
 
----
-
-Tech Stack
-
-AI & Machine Learning
-
-"Python" (https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-"Transformers" (https://img.shields.io/badge/Transformers-FFCC00?logo=huggingface&logoColor=black)
-"OpenAI" (https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=white)
-"Gemini" (https://img.shields.io/badge/Google_Gemini-4285F4?logo=google&logoColor=white)
-"Llama" (https://img.shields.io/badge/Llama-AI-orange)
-"Qwen" (https://img.shields.io/badge/Qwen-7B61FF)
-
-Frontend
-
-"React" (https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
-"JavaScript" (https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-"HTML5" (https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
-"CSS3" (https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
-
-Backend & Infrastructure
-
-"NodeJS" (https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)
-"Express" (https://img.shields.io/badge/Express-black?logo=express)
-"Supabase" (https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=white)
-"Railway" (https://img.shields.io/badge/Railway-black?logo=railway)
-"Vercel" (https://img.shields.io/badge/Vercel-black?logo=vercel)
+🌐 https://spritexai.pro.bd
 
 ---
 
-Featured Repositories
+Technologies & Areas of Interest
+
+Artificial Intelligence
+
+- Python
+- PyTorch
+- Transformers
+- OpenAI
+- Gemini
+- Qwen
+- Llama
+- Unsloth
+
+AI Systems
+
+- Agent Architecture
+- Retrieval-Augmented Generation (RAG)
+- Memory Systems
+- Tool Calling
+- Multi-Agent Workflows
+- Prompt Engineering
+
+Development
+
+- React
+- JavaScript
+- Supabase
+- Git
+- GitHub
+
+---
+
+Featured Projects
 
 RexiO Community Edition
 
-https://github.com/SpritexAI/RexiO
+Open-source community version of RexiO.
+
+🔗 https://github.com/SpritexAI/RexiO
 
 RexiO Agent
 
-https://github.com/SpritexAI/rexio-agent
+Open-source AI agent framework.
+
+🔗 https://github.com/SpritexAI/rexio-agent
 
 ---
 
-GitHub Statistics
+GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Seizmann&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Seizmann&show_icons=true&hide_border=true" />
 </p><p align="center">
-  <img src="https://streak-stats.demolab.com?user=Seizmann&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=Seizmann&hide_border=true" />
 </p><p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Seizmann&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Seizmann&layout=compact&hide_border=true" />
 </p>
 
 ---
 
-Connect With Me
+Connect
 
-- Portfolio: https://sijan.pro.bd
-- Website: https://rexio.pro
-- Company: https://spritexai.pro.bd
-- GitHub: https://github.com/Seizmann
-- X (Twitter): https://x.com/fakesijan
-- Facebook: https://facebook.com/fakesijan
-- Instagram: https://instagram.com/seiz_1_e
-- Email: contact@sijan.pro.bd
+🌐 Portfolio
+https://sijan.pro.bd
+
+🌐 RexiO
+https://rexio.pro
+
+🏢 SpritEX AI
+https://spritexai.pro.bd
+
+🐦 X
+https://x.com/fakesijan
+
+📘 Facebook
+https://facebook.com/fakesijan
+
+📸 Instagram
+https://instagram.com/seiz_1_e
+
+📧 Email
+contact@sijan.pro.bd
 
 ---
 
-Keywords
-
-AI Engineer • LLM Engineer • Software Architect • Startup Founder • Artificial Intelligence • Agentic AI • Autonomous Agents • Machine Learning • Full Stack Developer • SaaS Builder • Open Source Developer • AI Products • Bangladesh
+«Building the future with AI, one product at a time.»

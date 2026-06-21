@@ -8,7 +8,8 @@ Building AI-native products, intelligent agents, developer tools, and scalable s
   <a href="https://sijan.pro.bd">Portfolio</a> •
   <a href="https://rexio.pro">RexiO</a> •
   <a href="https://spritexai.pro.bd">SpritEX AI</a>
-</p>---
+</p>
+---
 
 About Me
 
@@ -98,7 +99,9 @@ GitHub Statistics
   <img src="https://streak-stats.demolab.com?user=Seizmann&theme=tokyonight" />
 </p><p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Seizmann&layout=compact&theme=tokyonight" />
-</p>---
+</p>
+
+---
 
 Connect With Me
 
